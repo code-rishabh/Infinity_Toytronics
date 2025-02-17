@@ -1,4 +1,4 @@
-import logo from "/cricket-icons-logo.jpg";
+import logo from "/itt.jpg";
 
 const LandingPageMessage = () => {
   return (
